@@ -1,0 +1,4 @@
+touch notebooks/.gitkeep
+touch src/.gitkeep
+touch data/.gitkeep
+touch tests/.gitkeep
