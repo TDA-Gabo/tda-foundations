@@ -1,0 +1,8 @@
+numpy
+pandas
+matplotlib
+scipy
+ripser
+persim
+giotto-tda
+jupyter
