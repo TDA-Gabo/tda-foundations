@@ -1,4 +1,5 @@
 # TDA Foundations
+[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/TDA-Gabo/tda-foundations/tree/main/notebooks/)
 ### Topological Data Analysis — Core Concepts & Implementation
 
 > An exploration of TDA fundamentals — building intuition for topology through code.
